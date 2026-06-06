@@ -1,0 +1,15 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorTheme": "Pale Fire High Contrast",
+    "diffEditor.diffAlgorithm": "advanced",
+    "editor.stickyScroll.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "'Ubuntu Mono',Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "editor.lineHeight": 18,
+    "vim.insertModeKeyBindings": [
+        { "before": ["f", "j"], "after": ["<Esc>"] }
+        { "before": ["j", "f"], "after": ["<Esc>"] }
+    ]
+}
