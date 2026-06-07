@@ -9,7 +9,7 @@
     "editor.fontSize": 18,
     "editor.lineHeight": 18,
     "vim.insertModeKeyBindings": [
-        { "before": ["f", "j"], "after": ["<Esc>"] }
+        { "before": ["f", "j"], "after": ["<Esc>"] },
         { "before": ["j", "f"], "after": ["<Esc>"] }
     ]
 }
