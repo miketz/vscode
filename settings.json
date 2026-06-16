@@ -13,5 +13,9 @@
         { "before": ["f", "j"], "after": ["<Esc>"] },
         { "before": ["j", "f"], "after": ["<Esc>"] }
     ],
+    "vim.visualModeKeyBindings": [
+        { "before": ["f", "j"], "after": ["<Esc>"] },
+        { "before": ["j", "f"], "after": ["<Esc>"] }
+    ],
     "editor.cursorSurroundingLines": 0
 }
